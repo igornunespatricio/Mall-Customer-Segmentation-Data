@@ -63,6 +63,6 @@ In the end, we can map personas to those clusters with the help of boxplots for 
 
 <img src="images\boxplot_cluster_feature.png" alt="boxplot to help map personas to clusters">
 
-For example, it can be seen from the boxplots that for cluster 1 we have adults between 20~30 years old, with an average annual income and average spending score. On contrast, cluster 2 is for the same age range (20~30), but with a lower annual income and higher spending score. Clusters 3 and 5 are related to wider age ranges with low spending score, but cluster 5 is for lower annual income costumers while cluster 3 is for higher annual income customers.
+For example, it can be seen from the boxplots that for cluster 1 we have adults between 20 to 30 years old, with an average annual income and average spending score. On contrast, cluster 2 is for the same age range (20 to 30), but with a lower annual income and higher spending score. Clusters 3 and 5 are related to wider age ranges with low spending score, but cluster 5 is for lower annual income costumers while cluster 3 is for higher annual income customers.
 
 This information can be useful from a marketing perspective to create more personalized content by focusing in groups of people with similar characteristics found by the Kmeans pipeline model developed in this project.
